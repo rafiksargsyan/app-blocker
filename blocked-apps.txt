@@ -1,0 +1,11 @@
+# Every line corresponds to a matcher of an applications' command line
+# that must be blocked. Matching command line matching gives more
+# flexibility over name matching. '%' is used to match any string.
+# For example if you want to block all instances of "foo.exe", you
+# would add the following line
+#
+#     %foo.exe%
+#
+# Lines starting with '#' are ignored.
+
+%skype.exe%

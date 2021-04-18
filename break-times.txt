@@ -1,0 +1,4 @@
+# Every line corresponds to a break interval which must have format
+# "dd:dd-dd:dd". Lines starting with '#' are ignored.
+
+00:00-23:59

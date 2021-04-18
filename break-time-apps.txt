@@ -1,0 +1,10 @@
+# Every line corresponds to the command line of an application that
+# should be run at break times. Lines starting with '#' are ignored.
+
+# C:/path/to/application.exe <params>
+
+# Applications that contain spaces in their paths must be double quoted
+# "C:/path to/application.exe" <params>
+
+C:\Users\Rafo\OneDrive\Desktop\test.bat
+
